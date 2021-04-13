@@ -1,1 +1,1 @@
-Hola Mundo desde la rama MAIN, generando conflictos
+Hola Mundo desde la rama MAIN, generando conflicto local
